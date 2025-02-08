@@ -74,6 +74,8 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
     
+    md += """\ncategory: conferences"""
+    
     md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
