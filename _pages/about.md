@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 I am a engineer in [Nullmax.ai](nullmax.com)(2022-now).
-I recieve master degree in [NWPU](http://www.nwpu.edu.cn).
+
+I recieved master degree in [NWPU](http://www.nwpu.edu.cn).
+
 I am very fortunate to be advised by Prof. QiWang and Prof. Xuelong Li.
-My reesarch interest includes 2D/3D object detection, and E2E autonous driving.
+
+My research interest includes 2D/3D object detection, and E2E autonous driving.
